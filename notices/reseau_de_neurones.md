@@ -1,6 +1,6 @@
 ---
 title: "Réseau de neurones"
-id: 20210914180620
+id: 20210914180638
 filename: reseau_de_neurones
 type: notice
 ---

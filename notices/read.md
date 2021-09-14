@@ -1,6 +1,6 @@
 ---
 title: "READ (Recognition and Enrichment of Archival Documents)"
-id: 20210914180620
+id: 20210914180627
 filename: read
 type: notice
 ---

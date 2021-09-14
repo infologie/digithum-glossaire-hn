@@ -1,6 +1,6 @@
 ---
 title: "RGPD"
-id: 20210914180620
+id: 20210914180642
 filename: rgpd
 type: notice
 ---
