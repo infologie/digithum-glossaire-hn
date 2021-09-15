@@ -1,6 +1,6 @@
 ---
 title: "Stylométrie"
-id: 20210914180709
+id: 20210914180710
 filename: stylometrie
 type: notice
 ---
