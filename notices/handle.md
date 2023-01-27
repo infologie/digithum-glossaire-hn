@@ -1,9 +1,10 @@
 ---
-title: "Handle"
-id: 20210914180403
-filename: handle
-type: notice
+title: Handle
+id: 2022205
+tags:
+- Acquisition de données
+type: ressource
 ---
 
-Handle est un [[20210914180418]] identifiant attribué à une ressource par [[20210914180442]] Isidore lors de son opération de [[20210914180524]] moissonnage.
+Handle est un [[2022221|identifiant]] attribué à une ressource par [[2022245|Isidore]] lors de son opération de [[2022297|moissonnage]].
 

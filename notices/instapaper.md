@@ -1,12 +1,16 @@
 ---
-title: "Instapaper"
-id: 20210914180431
-filename: instapaper
-type: notice
+title: Instapaper
+id: 2022234
+tags:
+- Veille documentaire
+- Annotation
+- Analyse du web
+type: ressource
 ---
 
-Instapaper est un outil de veille permettant d’agréger, sauvegarder, annoter des [[20210914180559]] pages web sur une interface personnelle.
+Instapaper est un outil de [[2022478|veille]] permettant d’agréger, sauvegarder, annoter des [[2022342|pages web]] sur une interface personnelle.
 
-Voir [[20210914180610]] Pocket, [[20210914180317]] Evernote
+Voir [[2022355|Pocket]], [[2022150|Evernote]]
+
 Site web : <https://www.instapaper.com>
 

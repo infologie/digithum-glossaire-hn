@@ -1,11 +1,13 @@
 ---
-title: "Recherche avancée"
-id: 20210914180629
-filename: recherche_avancee
-type: notice
+title: Recherche avancée
+id: 2022378
+tags:
+- Veille documentaire
+- Acquisition de données
+type: notion
 ---
 
-Recherche par [[20210914180637]] requête ou multi-critères. La recherche avancée peut aussi porter sur des [[20210914180520]] métadonnées ou des [[20210914180112]] annotations.
+Recherche par [[2022386|requête]] ou multi-critères. La recherche avancée peut aussi porter sur des [[2022291|métadonnées]] ou des [[2022014|annotations]].
 
-Voir [[20210914180552]] Opérateurs booléens
+Voir [[2022333|Opérateurs booléens]]
 

@@ -1,11 +1,12 @@
 ---
-title: "Munich Personal RePEc Archive"
-id: 20210914180526
-filename: munich_personal_repec_archive
-type: notice
+title: Munich Personal RePEc Archive
+id: 2022300
+tags:
+- Publication web
+type: ressource
 ---
 
-Munich Personal RePEc Archive est un service qui permet au chercheur de déposer les travaux qu’il souhaite diffuser sur les autres services du réseau [[20210914180635]] RePec comme [[20210914180417]] IDEAS ou [[20210914180258]] EconPapers.
+Munich Personal RePEc Archive est un service qui permet au chercheur de déposer les travaux qu’il souhaite diffuser sur les autres services du réseau [[2022384|RePec]] comme [[2022219|IDEAS]] ou [[2022131|EconPapers]].
 
 Site web : <https://mpra.ub.uni-muenchen.de>
 

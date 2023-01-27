@@ -1,11 +1,15 @@
 ---
-title: "Gallica"
-id: 20210914180340
-filename: gallica
-type: notice
+title: Gallica
+id: 2022176
+tags:
+- Bibliothèque numérique
+- Exploration de corpus
+- Image
+- Transcription
+type: ressource
 ---
 
-[[20210914180134]] Bibliothèque numérique de la Bibliothèque nationale de France.
+[[2022039|Bibliothèque numérique]] de la Bibliothèque nationale de France.
 
 Site web : <https://gallica.bnf.fr>
 

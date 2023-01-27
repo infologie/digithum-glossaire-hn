@@ -1,9 +1,11 @@
 ---
-title: "DTD"
-id: 20210914180248
-filename: dtd
-type: notice
+title: DTD
+id: 2022121
+tags:
+- Format
+- Structuration
+type: ressource
 ---
 
-En [[20210914180821]] XML, le DTD (Document Type Definition ou Définition de Type de Document) est un [[20210914180329]] fichier ou une partie de fichier qui permet de définir le modèle ou la structure d’un [[20210914180242]] document.
+En [[2022504|XML]], le DTD (Document Type Definition ou Définition de Type de Document) est un [[2022163|fichier]] ou une partie de fichier qui permet de définir le modèle ou la structure d’un [[2022114|document]].
 

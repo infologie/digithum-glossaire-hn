@@ -1,8 +1,10 @@
 ---
-title: "Intelligence artificielle (I. A.)"
-id: 20210914180432
-filename: intelligence_artificielle
-type: notice
+title: Intelligence artificielle (I. A.)
+id: 2022235
+tags:
+- Veille documentaire
+- Gestion de contenu
+type: notion
 ---
 
 L’Intelligence artificielle (ou « AI » en anglais, pour Artificial Intelligence) est définie par l’un de ses créateurs comme « la construction de programmes informatiques qui s’adonnent à des tâches qui sont, pour l’instant, accomplies de façon plus satisfaisante par des êtres humains car elles demandent des processus mentaux de haut niveau tels que : l’apprentissage perceptuel, l’organisation de la mémoire et le raisonnement critique » (M. Lee Minsky).

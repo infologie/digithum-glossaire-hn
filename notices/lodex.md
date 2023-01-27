@@ -1,11 +1,15 @@
 ---
-title: "Lodex"
-id: 20210914180509
-filename: lodex
-type: notice
+title: Lodex
+id: 2022277
+tags:
+- Publication web
+- Structuration
+- Visualisation
+- Publication web
+type: ressource
 ---
 
-Lodex est un [[20210914180511]] logiciel [[20210914180546]] open source permettant de publier selon les normes du [[20210914180814]] web sémantique des tableaux comportant des données brutes, d’en faciliter la transformation en [[20210914180245]] données structurées, d’explorer le jeu de données publié selon différents angles de vues, de référencer et valoriser chaque ressource, d’aider à aligner les données à publier avec des données similaires ou connexes.
+Lodex est un [[2022278|logiciel]] [[2022325|open source]] permettant de publier selon les normes du [[2022491|web sémantique]] des tableaux comportant des données brutes, d’en faciliter la transformation en [[2022117|données structurées]], d’explorer le jeu de données publié selon différents angles de vues, de référencer et valoriser chaque ressource, d’aider à aligner les données à publier avec des données similaires ou connexes.
 
 Site web : <https://lodex.inist.fr>
 

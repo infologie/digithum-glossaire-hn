@@ -1,11 +1,13 @@
 ---
-title: "READ (Recognition and Enrichment of Archival Documents)"
-id: 20210914180627
-filename: read
-type: notice
+title: READ (Recognition and Enrichment of Archival Documents)
+id: 2022376
+tags:
+- Transcription
+- Reconnaissance de l’écriture manuscrite (HTR)
+type: ressource
 ---
 
-[[20210914180607]] Plateforme de transcription et outil de reconnaissance automatique d’écriture manuscrite ([[20210914180409]] HTR).
+[[2022352|Plateforme]] de transcription et outil de reconnaissance automatique d’écriture manuscrite ([[2022211|HTR]]).
 
-Voir [[20210914180744]] Transkribus, [[20210914180315]] eScriptorium
+Voir [[2022460|Transkribus]], [[2022515|eScriptorium]]
 

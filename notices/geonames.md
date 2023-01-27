@@ -1,11 +1,14 @@
 ---
-title: "GeoNames"
-id: 20210914180349
-filename: geonames
-type: notice
+title: GeoNames
+id: 2022187
+tags:
+- Référentiel / Standard
+- Vocabulaire / Thésaurus
+- Données géographiques
+type: ressource
 ---
 
-[[20210914180633]] Référentiel de noms géographiques.
+[[2022382|Référentiel]] de noms géographiques.
 
 Site web : <https://www.geonames.org/>
 

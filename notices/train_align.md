@@ -1,8 +1,10 @@
 ---
-title: "Train & Align"
-id: 20210914180740
-filename: train_align
-type: notice
+title: Train & Align
+id: 2022456
+tags:
+- Transcription
+- Son
+type: ressource
 ---
 
 Train & Align est un outil en ligne qui permet d’aligner automatiquement du son avec sa transcription.

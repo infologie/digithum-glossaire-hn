@@ -1,11 +1,14 @@
 ---
-title: "Star"
-id: 20210914180708
-filename: star
-type: notice
+title: Star
+id: 2022422
+tags:
+- Stockage / Archivage
+- Publication web
+- Littérature scientifique
+type: ressource
 ---
 
-Star est une [[20210914180118]] application professionnelle nationale mise à disposition des établissements habilités à délivrer le diplôme de doctorat.
+Star est une [[2022020|application]] professionnelle nationale mise à disposition des établissements habilités à délivrer le diplôme de doctorat.
 
 Cette application sert au signalement et à l’archivage des thèses au format électronique.
 

@@ -1,11 +1,12 @@
 ---
-title: "DeepL"
-id: 20210914180229
-filename: deepl
-type: notice
+title: DeepL
+id: 2022100
+tags:
+- Traduction
+type: ressource
 ---
 
-[[20210914180607]] Plateforme de traduction automatique multilingue (voir [[20210914180432]] Intelligence artificielle).
+[[2022352|Plateforme]] de traduction automatique multilingue (voir [[2022235|Intelligence artificielle]]).
 
 Site web : <https://www.deepl.com/fr/translator>
 

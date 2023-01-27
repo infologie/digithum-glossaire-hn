@@ -1,8 +1,11 @@
 ---
-title: "R"
-id: 20210914180620
-filename: r
-type: notice
+title: R
+id: 2022369
+tags:
+- Exploration de corpus
+- Visualisation
+- Textométrie
+type: ressource
 ---
 
 R est un outil de programmation (comme SPSS ou SAS, par exemple) et un langage de programmation.

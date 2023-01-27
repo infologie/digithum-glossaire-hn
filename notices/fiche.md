@@ -1,9 +1,11 @@
 ---
-title: "Fiche"
-id: 20210914180327
-filename: fiche
-type: notice
+title: Fiche
+id: 2022161
+tags:
+- Format
+- Référentiel / Standard
+type: notion
 ---
 
-Une fiche rassemble tous les [[20210914180150]] champs saisis dans un [[20210914180334]] formulaire. 
+Une fiche rassemble tous les [[2022056|champs]] saisis dans un [[2022169|formulaire]]. 
 

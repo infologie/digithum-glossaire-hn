@@ -1,11 +1,14 @@
 ---
-title: "Hyphe"
-id: 20210914180415
-filename: hyphe
-type: notice
+title: Hyphe
+id: 2022218
+tags:
+- Acquisition de données
+- Analyse du web
+- Visualisation
+type: ressource
 ---
 
-Hyphe est un [[20210914180511]] logiciel libre de crawler web permettant de créer des corpus constitués de [[20210914180559]] pages web et des [[20210914180505]] liens hypertextes existant entre elles sur un sujet spécifique.
+Hyphe est un [[2022278|logiciel]] libre de crawler web permettant de créer des corpus constitués de [[2022342|pages web]] et des [[2022273|liens hypertextes]] existant entre elles sur un sujet spécifique.
 
 Ces pages peuvent être regroupées en « webentités » et le logiciel permet également de visualiser des réseaux de relations.
 

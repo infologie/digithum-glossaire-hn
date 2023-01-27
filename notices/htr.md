@@ -1,12 +1,14 @@
 ---
-title: "HTR (Handwritten Text Recognition)"
-id: 20210914180409
-filename: htr
-type: notice
+title: HTR (Handwritten Text Recognition)
+id: 2022211
+tags:
+- Transcription
+type: notion
 ---
 
 Technologie de reconnaissance automatique d’écriture manuscrite.
 
-Voir [[20210914180744]] Transkribus, [[20210914180315]] eScriptorium
+Voir [[2022460|Transkribus]], [[2022515|eScriptorium]]
+
 
 

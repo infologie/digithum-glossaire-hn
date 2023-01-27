@@ -1,11 +1,13 @@
 ---
-title: "Interopérabilité"
-id: 20210914180436
-filename: interoperabilite
-type: notice
+title: Interopérabilité
+id: 2022239
+tags:
+- Environnement collaboratif
+- Gestion de contenu
+type: notion
 ---
 
 Possibilité de communication entre deux ou plusieurs systèmes, appareils ou éléments informatiques.
 
-Voir [[20210914180250]] Dublin Core ; [[20210914180408]] HTML ; [[20210914180421]] IIIF, [[20210914180538]] OAI-PMH
+Voir [[2022123|Dublin Core]] ; [[2022210|HTML]] ; [[2022223|IIIF]], [[2022315|OAI-PMH]]
 

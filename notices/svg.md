@@ -1,10 +1,13 @@
 ---
-title: "SVG"
-id: 20210914180711
-filename: svg
-type: notice
+title: SVG
+id: 2022425
+tags:
+- Cartographie
+- Image
+type: ressource
 ---
 
-SVG (Scalable Vector Graphics) est un format de données basé sur le langage [[20210914180821]] XML qui permet notamment de décrire des [[20210914180425]] images vectorielles. 
-Il s’agit d’un format utilisé, entre autres, dans le domaine de la [[20210914180145]] cartographie.
+SVG (Scalable Vector Graphics) est un format de données basé sur le langage [[2022504|XML]] qui permet notamment de décrire des [[2022227|images vectorielles]]. 
+
+Il s’agit d’un format utilisé, entre autres, dans le domaine de la [[2022050|cartographie]].
 

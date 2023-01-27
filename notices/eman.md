@@ -1,11 +1,14 @@
 ---
-title: "EMAN"
-id: 20210914180303
-filename: eman
-type: notice
+title: EMAN
+id: 2022136
+tags:
+- Publication web
+- Exploration de corpus
+- Stockage / Archivage
+type: ressource
 ---
 
-[[20210914180607]] Plateforme d'édition de manuscrits et de fonds d'archives modernes numérisées.
+[[2022352|Plateforme]] d'édition de manuscrits et de fonds d'archives modernes numérisées.
 
 Site web : <http://www.eman-archives.org>
 

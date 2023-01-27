@@ -1,9 +1,11 @@
 ---
-title: "Triple store"
-id: 20210914180746
-filename: triple_store
-type: notice
+title: Triple store
+id: 2022462
+tags:
+- Analyse du web
+- Acquisition de données
+type: notion
 ---
 
-Entrepôt de données conçu pour le stockage et la récupération de données structurées en [[20210914180625]] RDF. Le langage de [[20210914180637]] requêtage est [[20210914180705]] SPARQL.
+Entrepôt de données conçu pour le stockage et la récupération de données structurées en [[2022374|RDF]]. Le langage de [[2022386|requêtage]] est [[2022418|SPARQL]].
 

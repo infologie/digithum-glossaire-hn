@@ -1,11 +1,15 @@
 ---
-title: "TACT"
-id: 20210914180714
-filename: tact
-type: notice
+title: TACT
+id: 2022428
+tags:
+- Transcription
+- Annotation
+- Corpus / données de la recherche
+- Environnement collaboratif
+type: ressource
 ---
 
-TACT est une [[20210914180607]] plateforme collaborative de transcription et d’annotation de corpus textuels.
+TACT est une [[2022352|plateforme]] collaborative de transcription et d’annotation de corpus textuels.
 
 Site web : <https://tact.demarre-shs.fr>
 

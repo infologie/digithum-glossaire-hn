@@ -1,11 +1,14 @@
 ---
-title: "Wayback Machine"
-id: 20210914180812
-filename: wayback_machine
-type: notice
+title: Wayback Machine
+id: 2022489
+tags:
+- Stockage / Archivage
+- Analyse du web
+- Publication web
+type: ressource
 ---
 
-Wayback Machine est un outil en ligne qui permet la consultation des versions [[20210914180121]] archivées d’un [[20210914180702]] site web.
+Wayback Machine est un outil en ligne qui permet la consultation des versions [[2022025|archivées]] d’un [[2022412|site web]].
 
 Site web : <http://web.archive.org>
 

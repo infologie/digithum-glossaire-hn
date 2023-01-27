@@ -1,11 +1,13 @@
 ---
-title: "MiniVan"
-id: 20210914180522
-filename: minivan
-type: notice
+title: MiniVan
+id: 2022294
+tags:
+- Visualisation
+- Exploration de corpus
+type: ressource
 ---
 
-MiniVan est une [[20210914180118]] application web permettant de publier et d’analyser des réseaux.
+MiniVan est une [[2022020|application]] web permettant de publier et d’analyser des réseaux.
 
 Site web : <https://medialab.github.io/minivan/#/>
 

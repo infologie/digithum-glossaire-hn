@@ -1,11 +1,14 @@
 ---
-title: "EasyAlign"
-id: 20210914180256
-filename: easyalign
-type: notice
+title: EasyAlign
+id: 2022130
+tags:
+- Annotation
+- Transcription
+- Son
+type: ressource
 ---
 
-EasyAlign est un [[20210914180511]] logiciel permettant de générer et d’aligner semi-automatiquement des annotations phonétiques à partir d’une transcription.
+EasyAlign est un [[2022278|logiciel]] permettant de générer et d’aligner semi-automatiquement des annotations phonétiques à partir d’une transcription.
 
 Site web : <http://latlntic.unige.ch/phonetique/easyalign.php>
 

@@ -1,11 +1,16 @@
 ---
-title: "Thésaurus"
-id: 20210914180730
-filename: thesaurus
-type: notice
+title: Thésaurus
+id: 2022445
+tags:
+- Vocabulaire / Thésaurus
+type: notion
 ---
 
-[[20210914180636]] Répertoire structuré de termes (mots clés) pour l’analyse de contenu et le classement de documents.
+[[2022385|Répertoire]] structuré de termes (mots clés) pour l’analyse de contenu et le classement de documents.
+
+Voir : [[2022332|OpenThéso]]
 
 En savoir plus : <https://www.cnrtl.fr/definition/th%C3%A9saurus>
+
+
 

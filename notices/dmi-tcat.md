@@ -1,8 +1,10 @@
 ---
-title: "DMI-TCAT"
-id: 20210914180239
-filename: dmi-tcat
-type: notice
+title: DMI-TCAT
+id: 2022111
+tags:
+- Analyse du web
+- Acquisition de données
+type: ressource
 ---
 
 Twitter Capture and Analysis Toolset (DMI-TCAT) capture et analyse de différentes façons les données de la plateforme twitter.

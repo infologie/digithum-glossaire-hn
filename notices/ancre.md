@@ -1,9 +1,11 @@
 ---
-title: "Ancre"
-id: 20210914180110
-filename: ancre
-type: notice
+title: Ancre
+id: 2022012
+tags:
+- Gestion de contenu
+- Publication web
+type: notion
 ---
 
-Une ancre est l’endroit de destination d’un [[20210914180505]] lien au sein d’une [[20210914180559]] page web ; cela permet de se rendre directement à un emplacement précis de la page. 
+Une ancre est l’endroit de destination d’un [[2022273|lien]] au sein d’une [[2022342|page web]] ; cela permet de se rendre directement à un emplacement précis de la page. 
 

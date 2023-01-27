@@ -1,11 +1,12 @@
 ---
-title: "Ural"
-id: 20210914180755
-filename: ural
-type: notice
+title: Ural
+id: 2022472
+tags:
+- Analyse du web
+type: ressource
 ---
 
-Ural est une [[20210914180502]] librairie [[20210914180617]] python fournissant des fonctions utiles au traitement et à la manipulation des [[20210914180757]] URLs.
+Ural est une [[2022270|librairie]] [[2022365|python]] fournissant des fonctions utiles au traitement et à la manipulation des [[2022474|URLs]].
 
 Site web : <https://github.com/medialab/ural>
 

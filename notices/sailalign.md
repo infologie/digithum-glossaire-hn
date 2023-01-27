@@ -1,8 +1,10 @@
 ---
-title: "SailAlign"
-id: 20210914180646
-filename: sailalign
-type: notice
+title: SailAlign
+id: 2022394
+tags:
+- Son
+- Exploration de corpus
+type: ressource
 ---
 
 SailAlign constitue un boîte à outils d’alignement phonétique acceptant de très longues séquences et prenant en charge les langues anglaise et espagnole.

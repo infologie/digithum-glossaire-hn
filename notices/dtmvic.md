@@ -1,11 +1,14 @@
 ---
-title: "DtmVic : Data and Text Mining"
-id: 20210914180249
-filename: dtmvic
-type: notice
+title: DtmVic
+id: 2022122
+tags:
+- Textométrie
+- Visualisation
+- Exploration de corpus
+type: ressource
 ---
 
-DtmVic, pour Data and Text Mining : Visualisation, Inférence, Classification, est un [[20210914180511]] logiciel d'[[20210914180727]] analyse textométrique.
+DtmVic, pour Data and Text Mining : Visualisation, Inférence, Classification, est un [[2022278|logiciel]] d'[[2022442|analyse textométrique]].
 
 Site web : <https://corli.huma-num.fr/dtmvic/> 
 

@@ -1,11 +1,13 @@
 ---
-title: "Lexico 5"
-id: 20210914180500
-filename: lexico_5
-type: notice
+title: Lexico 5
+id: 2022268
+tags:
+- Textométrie
+- Exploration de corpus
+type: ressource
 ---
 
-Lexico 5 est un [[20210914180511]] logiciel d'[[20210914180727]] analyse textométrique.
+Lexico 5 est un [[2022278|logiciel]] d'[[2022442|analyse textométrique]].
 
 Site web : <http://www.lexi-co.com>
 

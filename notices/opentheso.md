@@ -1,13 +1,19 @@
 ---
-title: "Opentheso"
-id: 20210914180551
-filename: opentheso
-type: notice
+title: Opentheso
+id: 2022332
+tags:
+- Vocabulaire / Thésaurus
+- Structuration
+- Environnement collaboratif
+- Référentiel / Standard
+type: ressource
 ---
 
-Opentheso est un [[20210914180511]] logiciel libre de gestion de [[20210914180730]] thésaurus multilingue créé suite à la collaboration entre [[20210914180338]] Frantiq et la [[20210914180607]] plateforme « Tête de réseaux documentaires » de la Maison de l’Orient et de la Méditerranée.
+Opentheso est un [[2022278|logiciel]] libre de gestion de [[2022445|thésaurus]] multilingue créé suite à la collaboration entre [[2022173|Frantiq]] et la [[2022352|plateforme]] « Tête de réseaux documentaires » de la Maison de l’Orient et de la Méditerranée.
 
-Voir [[20210914180558]] PACTOLS
+Voir [[2022341|PACTOLS]]
+
 Site web : <https://documentation.huma-num.fr/opentheso/ >
+
 Logiciel : <https://github.com/miledrousset/Opentheso2>
 

@@ -1,11 +1,14 @@
 ---
-title: "Iramuteq"
-id: 20210914180437
-filename: iramuteq
-type: notice
+title: Iramuteq
+id: 2022240
+tags:
+- Textométrie
+- Exploration de corpus
+- Visualisation
+type: ressource
 ---
 
-Iramuteq est un [[20210914180511]] logiciel libre développé en [[20210914180620]] R. Il offre une [[20210914180433]] interface permettant de créer des Analyses Multidimensionnelles de Textes et de Questionnaires.
+Iramuteq est un [[2022278|logiciel]] libre développé en [[2022369|R]]. Il offre une [[2022236|interface]] permettant de créer des Analyses Multidimensionnelles de Textes et de Questionnaires.
 
 Site web : <http://www.iramuteq.org/>
 

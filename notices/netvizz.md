@@ -1,8 +1,10 @@
 ---
-title: "Netvizz"
-id: 20210914180530
-filename: netvizz
-type: notice
+title: Netvizz
+id: 2022305
+tags:
+- Acquisition de données
+- Analyse du web
+type: ressource
 ---
 
 Netvizz permet d’extraire des données à partir de différentes sections de Facebook (groupes, pages, recherches).

@@ -1,8 +1,9 @@
 ---
-title: "ISBN (International Standard Book Number)"
-id: 20210914180441
-filename: isbn
-type: notice
+title: ISBN (International Standard Book Number)
+id: 2022244
+tags:
+- Référentiel / Standard
+type: ressource
 ---
 
 L’ISBN est un numéro international normalisé permettant l’identification d’un livre dans une édition donnée. Ce numéro doit figurer sur tous les exemplaires d’une même œuvre dans une même édition.

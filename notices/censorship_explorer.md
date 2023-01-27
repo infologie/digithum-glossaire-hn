@@ -1,8 +1,9 @@
 ---
-title: "Censorship Explorer"
-id: 20210914180149
-filename: censorship_explorer
-type: notice
+title: Censorship Explorer
+id: 2022055
+tags:
+- Analyse du web
+type: ressource
 ---
 
 Censorship Explorer est un outil qui permet de savoir si une URL est censurée dans un pays donné.

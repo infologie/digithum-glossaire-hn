@@ -1,11 +1,15 @@
 ---
-title: "Leaflet"
-id: 20210914180459
-filename: leaflet
-type: notice
+title: Leaflet
+id: 2022267
+tags:
+- Cartographie
+- Visualisation
+- Données géographiques
+- Publication web
+type: ressource
 ---
 
-Bibliothèque javascript open source de cartographie.
+Bibliothèque javascript open source de [[2022050|cartographie]] développée à partir de 2011. Elle est plus légère et plus simple qu'[[2022330|OpenLayers]], mais avec moins de possibilités. Elle dispose d'une importante communauté de développeurs et de nombreux plugins existent pour la compléter.
 
 Documentation en anglais : <https://leafletjs.com/>.
 
