@@ -1,14 +1,16 @@
 ---
-title: EMAN
-id: 2022136
+title: "EMAN"
+filename: eman
+types:
+- Outils logiciels
+- Ressources
 tags:
 - Publication web
 - Exploration de corpus
 - Stockage / Archivage
-type: ressource
 ---
 
-[[2022352|Plateforme]] d'édition de manuscrits et de fonds d'archives modernes numérisées.
+[[Plateforme]] d'édition de manuscrits et de fonds d'archives modernes numérisées.
 
 Site web : <http://www.eman-archives.org>
 

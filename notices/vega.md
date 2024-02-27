@@ -1,10 +1,10 @@
 ---
-title: Vega
-id: 2022477
+title: "Vega"
+filename: vega
+type: Pratiques et méthodes
 tags:
 - Acquisition de données
 - Visualisation
-type: ressource
 ---
 
 Vega est un langage informatique permettant de créer des visualisation de données.

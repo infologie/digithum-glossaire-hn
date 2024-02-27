@@ -1,9 +1,9 @@
 ---
-title: RENATER
-id: 2022383
+title: "RENATER"
+filename: renater
+type: Groupements institutionnels
 tags:
 - Environnement collaboratif
-type: ressource
 ---
 
 RENATER est le REseau NAtional de télécommunication pour la Technologie, l’Enseignement et la Recherche. 

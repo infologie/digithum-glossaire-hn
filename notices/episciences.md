@@ -1,17 +1,17 @@
 ---
-title: Episciences
-id: 2022146
+title: "Episciences"
+filename: episciences
+type: Ressources
 tags:
 - Publication web
 - Archive ouverte
 - Littérature scientifique
 - Bibliothèque numérique
-type: ressource
 ---
 
-Episciences est une plateforme qui héberge et donne accès aux [[2022145|épi-revues]]. La soumission des articles se fait par un processus de dépôt dans une [[2022026|archive ouverte]]. 
+Episciences est une plateforme qui héberge et donne accès aux [[épi-revue|épi-revues]]. La soumission des articles se fait par un processus de dépôt dans une [[archive ouverte]]. 
 
-Cette plateforme est développée et administrée par le [[2022053|CCSD]].
+Cette plateforme est développée et administrée par le [[CCSD]].
 
 Site web : <https://episciences.org>
 

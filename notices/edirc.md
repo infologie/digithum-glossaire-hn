@@ -1,15 +1,15 @@
 ---
-title: EDIRC
-id: 2022133
+title: "EDIRC"
+filename: edirc
+type: Ressources
 tags:
 - Veille documentaire
 - Exploration de corpus
-type: ressource
 ---
 
 EDIRC est un répertoire en ligne qui recense et indexe par pays et par champs les institutions économiques du monde entier.
 
-Voir [[2022384|RePec]]
+Voir [[RePec]]
 
 Site web : <https://edirc.repec.org>
 

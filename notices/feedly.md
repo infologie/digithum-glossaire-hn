@@ -1,15 +1,15 @@
 ---
-title: Feedly
-id: 2022159
+title: "Feedly"
+filename: feedly
+type: Outils logiciels
 tags:
 - Flux RSS
 - Veille documentaire
-type: ressource
 ---
 
-Feedly est une application web d’organisation de veille informationnelle qui permet de gérer les flux [[2022393|RSS]] de l’internaute en les agrégeant sur sa [[2022352|plateforme]].
+Feedly est une application web d’organisation de veille informationnelle qui permet de gérer les flux [[RSS]] de l’internaute en les agrégeant sur sa [[plateforme]].
 
-Voir aussi : [[2022232|InoReader]], [[2022304|Netvibes]]
+Voir aussi : [[InoReader]], [[Netvibes]]
 
 Site web : <https://feedly.com>
 

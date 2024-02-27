@@ -1,13 +1,13 @@
 ---
-title: ANNIS
-id: 2022013
+title: "ANNIS"
+filename: annis
+type: Outils logiciels
 tags:
 - Exploration de corpus
 - Visualisation
-type: ressource
 ---
 
-ANNIS est un outil de recherche et de [[2022480|visualisation]] destiné aux corpus complexes caractérisés par plusieurs niveaux linguistiques. Il permet également d’[[2022014|annoter]] les [[2022116|données]].
+ANNIS est un outil de recherche et de [[visualisation de données|visualisation]] destiné aux corpus complexes caractérisés par plusieurs niveaux linguistiques. Il permet également d’[[annotation|annoter]] les [[données de la recherche|données]].
 
 Site web : <https://corpus-tools.org/annis/>
 

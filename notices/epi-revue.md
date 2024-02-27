@@ -1,15 +1,15 @@
 ---
-title: Epi-revue
-id: 2022145
+title: "Épi-revue"
+filename: epi-revue
+type: Pratiques et méthodes
 tags:
 - Archive ouverte
 - Gestion de projet
-type: notion
 ---
 
-Une épi-revue est une revue électronique en libre accès, composée d’articles évalués par les pairs et soumis via un dépôt dans une [[2022026|archive ouverte]] telle que [[2022204|HAL]].
+Une épi-revue est une revue électronique en libre accès, composée d’articles évalués par les pairs et soumis via un dépôt dans une [[archive ouverte]] telle que [[HAL]].
 
-Voir aussi [[2022396|Science ouverte]]
+Voir aussi [[Science ouverte]]
 
 Site web d'Episciences : <https://www.ccsd.cnrs.fr/epi-revues>
 

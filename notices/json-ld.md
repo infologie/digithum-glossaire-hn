@@ -1,13 +1,13 @@
 ---
-title: JSON-LD JavaScript Object Notation for Linked Data
-id: 2022257
+title: "JSON-LD JavaScript Object Notation for Linked Data"
+filename: json-ld
+type: Technologies et familles d’outils
 tags:
 - Acquisition de données
 - Référentiel / Standard
-type: ressource
 ---
 
-Le JSON-LD (JavaScript Object Notation for Linked Data) est une méthode d’intégration de [[2022117|données structurées]] sur le web, basée sur le format [[2022258|JSON]]. Il fait partie des recommandations du [[2022487|W3C]].
+Le JSON-LD (JavaScript Object Notation for Linked Data) est une méthode d’intégration de [[données structurées]] sur le web, basée sur le format [[JSON]]. Il fait partie des recommandations du [[W3C]].
 
 Site web : <https://json-ld.org/>
 

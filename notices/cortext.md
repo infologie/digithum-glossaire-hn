@@ -1,15 +1,15 @@
 ---
-title: Cortext
-id: 2022084
+title: "Cortext"
+filename: cortext
+type: Outils logiciels
 tags:
 - Visualisation
 - Textométrie
 - Exploration de corpus
 - Cartographie
-type: ressource
 ---
 
-Cortext est une [[2022352|plateforme]] d'analyse de texte qui permet la constitution et la [[2022480|visualisation]] de réseaux.
+Cortext est une [[plateforme]] d'analyse de texte qui permet la constitution et la [[visualisation de données|visualisation]] de réseaux.
 
 Elle maintenue par le laboratoire LISIS.
 

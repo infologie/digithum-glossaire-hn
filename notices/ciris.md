@@ -1,14 +1,14 @@
 ---
-title: CIRIS
-id: 2022060
+title: "CIRIS"
+filename: ciris
+type: Ressources
 tags:
 - Bibliographie
 - Exploration de corpus
 - Environnement collaboratif
-type: ressource
 ---
 
-CIRIS est une [[2022036|base de données]] bibliographiques collaborative qui recense et décrit les éditions anciennes et récentes des textes non documentaires de l’Antiquité gréco-latine.
+CIRIS est une [[base de données]] bibliographiques collaborative qui recense et décrit les éditions anciennes et récentes des textes non documentaires de l’Antiquité gréco-latine.
 
 Site web : <https://ciris.huma-num.fr>
 

@@ -1,13 +1,13 @@
 ---
-title: Rip Sentences
-id: 2022392
+title: "Rip Sentences"
+filename: rip_sentences
+type: Outils logiciels
 tags:
 - Acquisition de données
 - Analyse du web
-type: ressource
 ---
 
-Rip Sentences extrait le texte d’une [[2022342|page web]] spécifique et force les sauts de ligne entre les phrases.
+Rip Sentences extrait le texte d’une [[page web]] spécifique et force les sauts de ligne entre les phrases.
 
 Site web : <https://tools.digitalmethods.net/beta/sentences/>
 

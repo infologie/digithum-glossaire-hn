@@ -1,15 +1,15 @@
 ---
-title: IssueCrawler
-id: 2022251
+title: "IssueCrawler"
+filename: issuecrawler
+type: Outils logiciels
 tags:
 - Visualisation
 - Analyse du web
-type: ressource
 ---
 
 IssueCrawler permet à partir de plusieurs URLs de départ et de plusieurs mots-clés ou thématiques de construire une représentation graphique des acteurs de la controverse ou de la thématique.
 
-Voir [[2022077|Compare Networks Over Time]]
+Voir [[Compare Networks Over Time]]
 
 Site web : <https://www.issuecrawler.net>
 

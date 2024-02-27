@@ -1,6 +1,9 @@
 ---
-title: CoCoON
-id: 2022066
+title: "CoCoON"
+filename: cocoon
+types:
+- Outils logiciels
+- Ressources
 tags:
 - Son
 - Vidéo
@@ -8,12 +11,11 @@ tags:
 - Structuration
 - Annotation
 - Exploration de corpus
-type: ressource
 ---
 
-CoCoON est une [[2022352|plateforme]] de "COllections de COrpus Oraux Numériques". Elle aide à la création, la structuration et l'archivage de corpus oraux.
+CoCoON est une [[plateforme]] de "COllections de COrpus Oraux Numériques". Elle aide à la création, la structuration et l'archivage de corpus oraux.
 
-Un [[2022083|corpus]] se compose d'enregistrements (données audio) et d'[[2022014|annotations]].
+Un [[corpus]] se compose d'enregistrements (données audio) et d'[[annotation|annotations]].
 
 Site web : <https://cocoon.huma-num.fr/exist/crdo/>
 

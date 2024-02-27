@@ -1,13 +1,13 @@
 ---
-title: Dive
-id: 2022110
+title: "Dive"
+filename: dive
+type: Outils logiciels
 tags:
 - Exploration de corpus
 - Visualisation
-type: ressource
 ---
 
-Dive est un [[2022278|logiciel]] d’exploration, d’analyse et de [[2022480|visualisation de données]].
+Dive est un [[logiciel]] d’exploration, d’analyse et de [[visualisation de données]].
 
 Site web : <https://medialab.sciencespo.fr/outils/dive/>
 

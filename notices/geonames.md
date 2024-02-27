@@ -1,14 +1,14 @@
 ---
-title: GeoNames
-id: 2022187
+title: "GeoNames"
+filename: geonames
+type: Ressources
 tags:
 - Référentiel / Standard
 - Vocabulaire / Thésaurus
 - Données géographiques
-type: ressource
 ---
 
-[[2022382|Référentiel]] de noms géographiques.
+[[Référentiel]] de noms géographiques.
 
 Site web : <https://www.geonames.org/>
 

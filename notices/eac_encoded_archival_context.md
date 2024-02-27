@@ -1,10 +1,10 @@
 ---
-title: EAC (Encoded Archival Context)
-id: 2022127
+title: "EAC"
+filename: eac_encoded_archival_context
+type: Pratiques et méthodes
 tags:
 - Stockage / Archivage
-type: ressource
 ---
 
-L’EAC est un type de [[2022121|DTD]] qui permet la production en [[2022504|XML]] de [[2022312|notices d’autorité]] de personnes physiques, de familles ou de collectivités.
+L’EAC (Encoded Archival Context) est un type de [[DTD]] qui permet la production en [[XML]] de [[notice d’autorité|notices d’autorité]] de personnes physiques, de familles ou de collectivités.
 

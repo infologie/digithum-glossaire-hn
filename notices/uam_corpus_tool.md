@@ -1,12 +1,12 @@
 ---
-title: UAM Corpus Tool
-id: 2022467
+title: "UAM Corpus Tool"
+filename: uam_corpus_tool
+type: Outils logiciels
 tags:
 - Annotation
-type: ressource
 ---
 
-UAM Corpus Tool est un [[2022278|logiciel]] d’annotation de corpus textuels.
+UAM Corpus Tool est un [[logiciel]] d’annotation de corpus textuels.
 
 Site web : <http://www.corpustool.com/index.html>
 

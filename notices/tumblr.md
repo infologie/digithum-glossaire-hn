@@ -1,9 +1,9 @@
 ---
-title: Tumblr
-id: 2022465
+title: "Tumblr"
+filename: tumblr
+type: Outils logiciels
 tags:
 - Analyse du web
-type: ressource
 ---
 
 Cet outil permet de récupérer, d’analyser et de visualiser les posts et co-hashtags dans Tumblr.

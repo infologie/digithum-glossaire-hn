@@ -1,14 +1,14 @@
 ---
-title: EMU-SDMS
-id: 2022138
+title: "EMU-SDMS"
+filename: emu-sdms
+type: Outils logiciels
 tags:
 - Son
 - Exploration de corpus
 - Gestion de contenu
-type: ressource
 ---
 
-EMU Speech Database Management System (ou EMU-SDMS) est une collection d’outils dédiés à la création, la manipulation, la gestion et l’analyse de [[2022036|bases de données]] orales.
+EMU Speech Database Management System (ou EMU-SDMS) est une collection d’outils dédiés à la création, la manipulation, la gestion et l’analyse de [[base de données|bases de données]] orales.
 
 Site web : <https://ips-lmu.github.io/EMU.html>
 

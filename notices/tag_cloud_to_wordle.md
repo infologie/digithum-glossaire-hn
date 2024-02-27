@@ -1,14 +1,14 @@
 ---
-title: Tag Cloud to Wordle
-id: 2022432
+title: "Tag Cloud to Wordle"
+filename: tag_cloud_to_wordle
+type: Outils logiciels
 tags:
 - Visualisation
-type: ressource
 ---
 
-Cet outil permet de transformer un nuages de mots-clés en un nuage de mots-clés [[2022497|wordle]].
+Cet outil permet de transformer un nuages de mots-clés en un nuage de mots-clés [[wordle]].
 
-Voir [[2022433|Tag]]
+Voir [[Tag]]
 
 Site web : <https://tools.digitalmethods.net/beta/tagcloudToWordle/>
 

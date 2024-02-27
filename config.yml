@@ -1,0 +1,69 @@
+select_origin: directory
+files_origin: ./notices
+nodes_origin: ""
+links_origin: ""
+nodes_online: ""
+links_online: ""
+images_origin: ""
+export_target: ./export/
+history: false
+focus_max: 2
+record_types:
+  undefined:
+    fill: "#858585"
+    stroke: "#858585"
+  Groupements institutionnels:
+    fill: "#984ea3"
+    stroke: "#984ea3"
+  Outils logiciels:
+    fill: "#ff7f00"
+    stroke: "#ff7f00"
+  Pratiques et méthodes:
+    fill: "#377eb8"
+    stroke: "#377eb8"
+  Ressources:
+    fill: "#4daf4a"
+    stroke: "#4daf4a"
+  Technologies et familles d’outils:
+    fill: "#e41a1c"
+    stroke: "#e41a1c"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#E6E6E6"
+record_filters: []
+graph_background_color: "#ffffff"
+graph_highlight_color: "#B2B2B2"
+graph_highlight_on_hover: true
+graph_text_size: 5
+graph_arrows: true
+node_size_method: degree
+node_size: 1
+node_size_max: 10
+node_size_min: 2
+attraction_force: 75
+attraction_distance_max: 400
+attraction_vertical: 0.1
+attraction_horizontal: 0.1
+views: {}
+record_metas: [filename]
+title: Glossaire humanités numériques
+author: ""
+description: >
+  Ce glossaire a été publié initialement par Marie-Laure Massot (CNRS, UMS 3610 CAPHÉS - ENS Paris) et Agnès Tricoche (CNRS, UMR 8546 AOROC - ENS Paris) à l'adresse <https://digithum.huma-num.fr/ressources/glossaire/>.
+  
+  Cette version du glossaire a été réalisée par Arthur Perret (ELICO, Université Jean Moulin Lyon 3). Dernière mise à jour : 27 février 2024.
+
+  Ce glossaire est conçu au départ de ceux de la plateforme d’édition de manuscrits et d’archives EMAN et du projet Foucault fiches de lectures. Ayant pour vocation d'évoluer au fil du temps, il bénéficie de l'expertise des membres du Groupe de travail humanités numériques de l’EUR Translitterae.
+  
+  Il doit beaucoup à Pauline Leplongeon, étudiante en master à l'université Côte-d'Azur, et à Anne-Claire Durand, étudiante en master à l’école du Louvre, qui lors de stages réalisés en juillet-août 2021 et en juin 2022, en ont considérablement amélioré et enrichi la présente version.
+  
+  Par ailleurs, deux sites web ont été particulièrement utiles à l'élaboration de ce glossaire : celui du Médialab de Sciences Po et celui de la Digital Methods Initiative.
+keywords: []
+link_symbol: ""
+csl: ""
+bibliography: ""
+csl_locale: ""
+css_custom: ./digithum-glossaire-hn.css
+devtools: false
+lang: fr

@@ -1,12 +1,12 @@
 ---
-title: Transcriber
-id: 2022458
+title: "Transcriber"
+filename: transcriber
+type: Outils logiciels
 tags:
 - Transcription
 - Annotation
 - Exploration de corpus
 - Son
-type: ressource
 ---
 
 Transcriber est un outil d’analyse de données orales. Il permet la segmentation, l’étiquetage, la transcription et l’annotation de fichiers audios.

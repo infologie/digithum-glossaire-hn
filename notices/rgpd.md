@@ -1,10 +1,10 @@
 ---
-title: RGPD
-id: 2022391
+title: "RGPD"
+filename: rgpd
+type: Pratiques et méthodes
 tags:
 - Environnement collaboratif
 - Référentiel / Standard
-type: ressource
 ---
 
 L’acronyme RGPD, « Règlement Général sur la Protection des Données », encadre le traitement des données personnelles sur le territoire de l’Union européenne.

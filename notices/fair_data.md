@@ -1,11 +1,11 @@
 ---
-title: FAIR data
-id: 2022158
+title: "FAIR data"
+filename: fair_data
+type: Pratiques et méthodes
 tags:
 - Environnement collaboratif
 - Archive ouverte
 - Exploration de corpus
-type: notion
 ---
 
 L’objectif des principes FAIR (Faciles à trouver, Accessibles, Interopérables, Réutilisables) est de favoriser la découverte, l’accès, l’interopérabilité et la réutilisation des données partagées.

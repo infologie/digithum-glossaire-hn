@@ -1,12 +1,12 @@
 ---
-title: Robots.txt Discovery
-id: 2022519
+title: "Robots.txt Discovery"
+filename: robots.txt_discovery
+type: Outils logiciels
 tags:
 - Analyse du web
-type: ressource
 ---
 
-Cet outil permet d’exposer le protocole d’exclusion des robots, protocole placé à la racine des [[2022412|sites]] web et qui contient la liste des ressources des sites web qui ne doivent pas être [[2022229|indexées]] par les [[2022299|moteurs de recherche]].
+Cet outil permet d’exposer le protocole d’exclusion des robots, protocole placé à la racine des [[site|sites]] web et qui contient la liste des ressources des sites web qui ne doivent pas être [[indexation|indexées]] par les [[moteur de recherche|moteurs de recherche]].
 
 Site web : <https://tools.digitalmethods.net/robots/>
 

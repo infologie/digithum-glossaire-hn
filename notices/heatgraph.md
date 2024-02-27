@@ -1,10 +1,10 @@
 ---
-title: HeatGraph
-id: 2022207
+title: "HeatGraph"
+filename: heatgraph
+type: Outils logiciels
 tags:
 - Cartographie
 - Visualisation
-type: ressource
 ---
 
 HeatGraph est un outil de visualisation permettant de créer des cartes de chaleur à partir de la densité des noeuds dans un réseau spatialisé.

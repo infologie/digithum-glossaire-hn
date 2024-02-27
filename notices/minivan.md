@@ -1,13 +1,13 @@
 ---
-title: MiniVan
-id: 2022294
+title: "MiniVan"
+filename: minivan
+type: Outils logiciels
 tags:
 - Visualisation
 - Exploration de corpus
-type: ressource
 ---
 
-MiniVan est une [[2022020|application]] web permettant de publier et d’analyser des réseaux.
+MiniVan est une [[application]] web permettant de publier et d’analyser des réseaux.
 
 Site web : <https://medialab.github.io/minivan/#/>
 

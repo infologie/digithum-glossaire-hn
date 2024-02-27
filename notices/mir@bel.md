@@ -1,10 +1,10 @@
 ---
-title: Mir@bel
-id: 2022295
+title: "Mir@bel"
+filename: mir@bel
+type: Ressources
 tags:
 - Bibliographie
 - Littérature scientifique
-type: ressource
 ---
 
 Mutualisation d’information sur les revues et leurs accès dans les bases en ligne. Site web qui facilite l’accès aux revues (principalement celles de sciences humaines et sociales) en indiquant pour chacune les liens vers le texte intégral, les sommaires, les résumés ou l’indexation des articles.

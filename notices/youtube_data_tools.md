@@ -1,13 +1,13 @@
 ---
-title: Youtube Data Tools
-id: 2022507
+title: "Youtube Data Tools"
+filename: youtube_data_tools
+type: Outils logiciels
 tags:
 - Acquisition de données
 - Analyse du web
-type: ressource
 ---
 
-Il s’agit d’une collection d’outils variés permettant l’extraction de données de la [[2022352|plateforme]] Youtube.
+Il s’agit d’une collection d’outils variés permettant l’extraction de données de la [[plateforme]] Youtube.
 
 Site web : <https://tools.digitalmethods.net/netvizz/youtube/>
 

@@ -1,10 +1,10 @@
 ---
-title: ScienceScape
-id: 2022397
+title: "ScienceScape"
+filename: sciencescape
+type: Outils logiciels
 tags:
 - Visualisation
 - Format
-type: ressource
 ---
 
 ScienceScape est un environnement en ligne fournissant des outils scientométriques tels que des outils de conversion de fichiers ou encore de production et de visualisation de réseaux.

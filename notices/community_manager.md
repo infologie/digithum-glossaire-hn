@@ -1,10 +1,10 @@
 ---
-title: Community Manager
-id: 2022075
+title: "Community Manager"
+filename: community_manager
+type: Pratiques et méthodes
 tags:
 - Environnement collaboratif
 - Gestion de projet
-type: notion
 ---
 
 Le Community Manager est un professionnel des communautés en ligne qu’il est chargé de fédérer et d’animer pour le compte d’une entreprise, d’une institution ou encore d’une association. 

@@ -1,10 +1,10 @@
 ---
-title: Ressource électronique
-id: 2022389
+title: "Ressource électronique"
+filename: ressource_electronique
+type: Pratiques et méthodes
 tags:
 - Bibliothèque numérique
 - Exploration de corpus
-type: notion
 ---
 
 Une ressource électronique est un document encodé de façon à être exploitable par un ordinateur.

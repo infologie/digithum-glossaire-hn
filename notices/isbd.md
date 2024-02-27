@@ -1,10 +1,10 @@
 ---
-title: ISBD
-id: 2022243
+title: "ISBD"
+filename: isbd
+type: Pratiques et méthodes
 tags:
 - Bibliographie
 - Référentiel / Standard
-type: ressource
 ---
 
 L’ISBD (International Standard Bibliographic Description) est un ensemble de règles validées au niveau international qui déterminent la façon dont doit s’effectuer la description de tous de types de ressources documentaires publiées. Il est élaboré par l’IFLA (International Federation of Library Associations and Institutions). 

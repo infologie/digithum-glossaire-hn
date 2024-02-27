@@ -1,12 +1,12 @@
 ---
-title: Screenshot Generator
-id: 2022400
+title: "Screenshot Generator"
+filename: screenshot_generator
+type: Outils logiciels
 tags:
 - Acquisition de données
-type: ressource
 ---
 
-Il s’agit d’un outil permettant de générer des captures d’écran à partir d’une liste d’[[2022474|URLs]].
+Il s’agit d’un outil permettant de générer des captures d’écran à partir d’une liste d’[[url|URLs]].
 
 Site web : <https://wiki.digitalmethods.net/Dmi/ToolScreenshotGenerator>
 

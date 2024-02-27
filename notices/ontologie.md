@@ -1,9 +1,9 @@
 ---
-title: Ontologie
-id: 2022320
+title: "Ontologie"
+filename: ontologie
+type: Pratiques et méthodes
 tags:
 - Environnement collaboratif
-type: notion
 ---
 
 L’ontologie est une branche de la philosophie qui vise à élucider le sens de l’être considéré en tant qu’être général, abstrait, essentiel et en tant qu’être singulier, concret, existentiel. Il s’agit également de l’étude des être en eux-mêmes et non tels qu’ils nous apparaissent. 

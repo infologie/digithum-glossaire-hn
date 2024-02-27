@@ -1,0 +1,141 @@
+aside.menu {
+	width: 31rem;
+}
+
+a.record-link {
+	text-decoration: none;
+}
+
+em.link-text {
+	font-style: normal;
+}
+
+.menu-tags-container button {
+	font-size: 1.2rem;
+	font-family: var(--condensed);
+	margin: .4rem .2rem 0 .2rem;
+	padding: 0 0 0 5px;
+	color: black;
+}
+
+.record div.csl-entry {
+	font-size: 1.2rem;
+}
+
+text {
+	font-size: 4px;
+	font-family: var(--condensed);
+	fill: #5b5b5b;
+}
+
+line {
+	stroke-width: 0.5;
+}
+
+.title,
+details > summary,
+.record header div span:first-of-type {
+	text-transform: unset;
+}
+
+.title {
+	font-weight: 200;
+	font-size: 3.8rem;
+}
+details > summary {
+	font-weight: normal;
+}
+.record header div span:first-of-type {
+	font-weight: 300;
+}
+h1.record-title {
+	font-weight: 300;
+	font-size: 2em;
+	color: var(--off-black);
+}
+
+.record footer details > summary {
+	text-transform: capitalize;
+	font-size: 1em;
+	font-weight: 700;
+}
+
+.title {
+	color: inherit;
+}
+
+article#credits p.metas-description {
+	text-align: left;
+}
+
+button.menu-tags-btn,
+div.graph-chronos,
+div.graph-controls-focus,
+div.record-id,
+div.record-filename,
+span.tooltip {
+	display: none;
+}
+
+.record header div span:first-of-type {
+	font-size: inherit
+}
+
+div.graph-controls {
+	bottom: 15px;
+}
+
+/* WIDE SCREEN LAYOUT */
+
+@media screen and (min-width: 2300px) {
+
+main.record-container {
+	width: 100rem;
+	overflow: hidden;
+}
+article.record {
+	display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 1px 40px;
+}
+.record header {
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 1;
+	grid-row-end: 2;
+	margin-bottom: 0;
+}
+.record main {
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+.record footer {
+	grid-column-start: 2;
+	grid-column-end: 3;
+	grid-row-start: 2;
+	grid-row-end: 3;
+	margin-top: 0;
+	border-top: none;
+}
+.record main,
+.record footer {
+	height: calc(100vh - 188px);
+	overflow-y: scroll;
+}
+.graph-wrapper {
+	left: 30rem;
+	width: calc(100vw - 130rem);
+}
+.record-backlinks {
+	padding-bottom: 30vh;
+}
+.record footer li .record-links-context {
+	font-size: 1.4rem;
+	bottom: unset;
+	top: 25px;
+	z-index: 2;
+}
+}

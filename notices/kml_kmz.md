@@ -1,11 +1,11 @@
 ---
-title: KML/KMZ Keyhole Markup Language
-id: 2022262
+title: "KML/KMZ Keyhole Markup Language"
+filename: kml_kmz
+type: Pratiques et méthodes
 tags:
 - Données géographiques
 - Visualisation
-type: ressource
 ---
 
-Langage basé sur un schéma [[2022504|XML]] pour l'affichage des [[2022230|données géographiques]]. Principalement utilisé par Google Earth, il est devenu une norme internationale de l'Open Geospatial Consortium en 2008.
+Langage basé sur un schéma [[XML]] pour l'affichage des [[information géographique|données géographiques]]. Principalement utilisé par Google Earth, il est devenu une norme internationale de l'Open Geospatial Consortium en 2008.
 

@@ -1,12 +1,12 @@
 ---
-title: EAD (Encoded Archival Description)
-id: 2022128
+title: "EAD"
+filename: ead
+type: Pratiques et méthodes
 tags:
 - Référentiel / Standard
-type: ressource
 ---
 
-Standard de description archivistique qui permet d’encoder en [[2022504|XML]] un inventaire d’archives.
+Encoded Archival Description : standard de description archivistique qui permet d’encoder en [[XML]] un inventaire d’archives.
 
 Site web : <https://www.loc.gov/ead/>
 

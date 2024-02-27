@@ -1,12 +1,12 @@
 ---
-title: RawGraphs
-id: 2022371
+title: "RawGraphs"
+filename: rawgraphs
+type: Outils logiciels
 tags:
 - Visualisation
-type: ressource
 ---
 
-RawGraphs est un outil en ligne de visualisation de données tabulaires. Il est possible de télécharger les visualisations ainsi constituées sous forme d’images prêtes à la publication ou sous forme de fichiers [[2022425|.svg]] pouvant être retravaillés avec des [[2022278|logiciels]] d’édition d’[[2022227|images vectorielles]].
+RawGraphs est un outil en ligne de visualisation de données tabulaires. Il est possible de télécharger les visualisations ainsi constituées sous forme d’images prêtes à la publication ou sous forme de fichiers [[SVG|.svg]] pouvant être retravaillés avec des [[logiciel|logiciels]] d’édition d’[[image vectorielle|images vectorielles]].
 
 Site web : <https://app.rawgraphs.io>
 

@@ -1,16 +1,14 @@
 ---
-title: Khartis
-id: 2022261
+title: "Khartis"
+filename: khartis
+type: Outils logiciels
 tags:
 - Cartographie
 - Données géographiques
 - Visualisation
-type: ressource
 ---
 
-Outil de cartographie en ligne, développé par Sciences Po, pour créer simplement des [[2022049|cartes]] thématiques.
-
-Voir [[2022050|Cartographie]]
+Outil de [[cartographie]] en ligne, développé par Sciences Po, pour créer simplement des [[carte|cartes]] thématiques.
 
 Site web : <https://www.sciencespo.fr/cartographie/khartis/>
 

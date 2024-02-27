@@ -1,12 +1,12 @@
 ---
-title: TMX
-id: 2022450
+title: "TMX"
+filename: tmx
+type: Pratiques et méthodes
 tags:
 - Exploration de corpus
 - Traduction
 - Structuration
-type: ressource
 ---
 
-TMX (Translation Memory eXchange) est un format de fichier basé sur le standard [[2022504|XML]]. Il est utilisé pour aligner les traductions de phrases dans différentes langues.
+TMX (Translation Memory eXchange) est un format de fichier basé sur le standard [[XML]]. Il est utilisé pour aligner les traductions de phrases dans différentes langues.
 

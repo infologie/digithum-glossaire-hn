@@ -1,15 +1,15 @@
 ---
-title: AntConc
-id: 2022016
+title: "AntConc"
+filename: antconc
+type: Outils logiciels
 tags:
 - Textométrie
 - Exploration de corpus
-type: ressource
 ---
 
-AntConc est un [[2022278|logiciel]] d’analyse textuelle spécialisé dans les concordances.
+AntConc est un [[logiciel]] d’analyse textuelle spécialisé dans les concordances.
 
-Voir aussi : [[2022011|AnaText]]
+Voir aussi : [[AnaText]]
 
 Site web : <http://www.laurenceanthony.net/software/antconc/>
 

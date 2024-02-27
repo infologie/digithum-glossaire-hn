@@ -1,14 +1,14 @@
 ---
-title: OpenStreetMap
-id: 2022338
+title: "OpenStreetMap"
+filename: osm
+type: Outils logiciels
 tags:
 - Cartographie
 - Données géographiques
 - Visualisation
-type: ressource
 ---
 
-OpenStreetMap est une [[2022020|application]] web de [[2022050|cartographie]]. Elle partage également des données [[2022230|géographiques]] [[2022167|libres]] d'utilisation.
+OpenStreetMap est une [[application]] web de [[cartographie]]. Elle partage également des données [[information géographique|géographiques]] [[format libre/propriétaire|libres]] d'utilisation.
 
 Site web : <https://www.openstreetmap.org/>
 

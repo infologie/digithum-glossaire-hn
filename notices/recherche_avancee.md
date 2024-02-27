@@ -1,13 +1,13 @@
 ---
-title: Recherche avancée
-id: 2022378
+title: "Recherche avancée"
+filename: recherche_avancee
+type: Pratiques et méthodes
 tags:
 - Veille documentaire
 - Acquisition de données
-type: notion
 ---
 
-Recherche par [[2022386|requête]] ou multi-critères. La recherche avancée peut aussi porter sur des [[2022291|métadonnées]] ou des [[2022014|annotations]].
+Recherche par [[requête]] ou multi-critères. La recherche avancée peut aussi porter sur des [[métadonnées]] ou des [[annotation|annotations]].
 
-Voir [[2022333|Opérateurs booléens]]
+Voir [[Opérateurs booléens]]
 

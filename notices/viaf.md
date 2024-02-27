@@ -1,15 +1,15 @@
 ---
-title: VIAF
-id: 2022479
+title: "VIAF"
+filename: viaf
+type: Ressources
 tags:
 - Référentiel / Standard
 - Gestion de contenu
-type: ressource
 ---
 
 VIAF (Fichier d’Autorité International Virtuel), est un fichier d’autorité international de référence (noms de personne, collectivités, noms géographiques, œuvres et expressions).
 
-Voir [[2022382|Référentiel]].
+Voir [[Référentiel]].
 
 Site web : <http://viaf.org>
 

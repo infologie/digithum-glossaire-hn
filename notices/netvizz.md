@@ -1,10 +1,10 @@
 ---
-title: Netvizz
-id: 2022305
+title: "Netvizz"
+filename: netvizz
+type: Outils logiciels
 tags:
 - Acquisition de données
 - Analyse du web
-type: ressource
 ---
 
 Netvizz permet d’extraire des données à partir de différentes sections de Facebook (groupes, pages, recherches).

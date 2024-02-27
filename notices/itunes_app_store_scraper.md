@@ -1,15 +1,15 @@
 ---
-title: ITunes App Store Scraper
-id: 2022253
+title: "ITunes App Store Scraper"
+filename: itunes_app_store_scraper
+type: Outils logiciels
 tags:
 - Acquisition de données
 - Analyse du web
-type: ressource
 ---
 
-Cet outil permet d’extraire les détails relatifs à une [[2022020|application]], de collecter les [[2022020|applications]] liées et de récupérer une liste d’[[2022020|applications]] pour un mot-clé donné.
+Cet outil permet d’extraire les détails relatifs à une [[application]], de collecter les [[application|applications]] liées et de récupérer une liste d’[[application|applications]] pour un mot-clé donné.
 
-Voir aussi : [[2022490|Web scraping]]
+Voir aussi : [[Web scraping]]
 
 Site web : <https://wiki.digitalmethods.net/Dmi/TooliTunesAppStoreScraper>
 

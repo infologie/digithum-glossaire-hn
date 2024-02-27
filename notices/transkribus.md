@@ -1,17 +1,17 @@
 ---
-title: Transkribus
-id: 2022460
+title: "Transkribus"
+filename: transkribus
+type: Outils logiciels
 tags:
 - Transcription
 - Reconnaissance de l’écriture manuscrite (HTR)
-type: ressource
 ---
 
-Transkribus est un outil qui permet la reconnaissance de caractères dans des documents [[2022459|transcrits]] (manuscrits ou imprimés). Il peut être utilisé en local ou via sa [[2022352|plateforme]].
+Transkribus est un outil qui permet la reconnaissance de caractères dans des documents [[transcription|transcrits]] (manuscrits ou imprimés). Il peut être utilisé en local ou via sa [[plateforme]].
 
 Il est porté par l’université d’Insbruck.
 
-Voir : [[2022211|HTR]]
+Voir : [[HTR]]
 
 Site web : <https://transkribus.eu/Transkribus>
 

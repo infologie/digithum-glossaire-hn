@@ -1,12 +1,12 @@
 ---
-title: ConcQuest
-id: 2022078
+title: "ConcQuest"
+filename: concquest
+type: Outils logiciels
 tags:
 - Textométrie
-type: ressource
 ---
 
-ConcQuest est un [[2022278|logiciel]], plus précisément un concordancier, consacré à la recherche d’expressions complexes à travers des corpus monolingues et multilingues alignés. Cette recherche peut s’effectuer selon divers critères comme les formes, les lemmes, les catégories, les traits morphosyntaxiques. 
+ConcQuest est un [[logiciel]], plus précisément un concordancier, consacré à la recherche d’expressions complexes à travers des corpus monolingues et multilingues alignés. Cette recherche peut s’effectuer selon divers critères comme les formes, les lemmes, les catégories, les traits morphosyntaxiques. 
 
 Ce logiciel permet également la recherche d’expressions discontinues, l’extraction de statistiques d'occurrences. Il comporte d’autres fonctionnalités décrites à l’adresse du site web.
 

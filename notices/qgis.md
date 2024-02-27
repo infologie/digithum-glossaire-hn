@@ -1,19 +1,19 @@
 ---
-title: QGIS
-id: 2022366
+title: "QGIS"
+filename: qgis
+type: Outils logiciels
 tags:
 - Cartographie
 - Données géographiques
 - Visualisation
 - Structuration
-type: ressource
 ---
 
-QGIS est un [[2022278|logiciel]] libre et open source de traitement des données géographiques. Il est multi-plateforme et peut être utilisé sur plusieurs systèmes d’exploitation. 
+QGIS est un [[logiciel]] libre et open source de traitement des données géographiques. Il est multi-plateforme et peut être utilisé sur plusieurs systèmes d’exploitation. 
 
-Il gère à la fois les [[2022224|images matricielles]], [[2022227|vectorielles]] ainsi que les [[2022036|bases de données]].
+Il gère à la fois les <images matricielles>, <vectorielles> ainsi que les [[base de données|bases de données]].
 
-QGIS est une alternative à [[2022022|ArcGIS]] et fédère une large communauté. Il implique de nombreuses dépendances comme SQLite, GDAL ou PostGIS. 
+QGIS est une alternative à [[ArcGIS]] et fédère une large communauté. Il implique de nombreuses dépendances comme SQLite, GDAL ou PostGIS. 
 
 Site web : <https://www.qgis.org/fr/site/>
 

@@ -1,19 +1,21 @@
 ---
-title: Science ouverte (Open Science)
-id: 2022396
+title: "Science ouverte"
+filename: science_ouverte
+types:
+- Groupements institutionnels
+- Pratiques et méthodes
 tags:
 - Corpus / données de la recherche
 - Réservoir / Entrepôt de ressources
 - Publication web
 - Archive ouverte
-type: notion
 ---
 
-Le mouvement de la science ouverte vise à construire un écosystème dans lequel la science sera plus cumulative, mieux soutenue par les données, plus transparente, plus rapide et offrant un accès universel. Il s’agit de rendre la recherche scientifique et les données qu’elle produit accessibles à tous et dans tous les niveaux de la société.
+Le mouvement de la science ouverte (*open science*) vise à construire un écosystème dans lequel la science sera plus cumulative, mieux soutenue par les données, plus transparente, plus rapide et offrant un accès universel. Il s’agit de rendre la recherche scientifique et les données qu’elle produit accessibles à tous et dans tous les niveaux de la société.
 
 Ce mouvement oeuvre pour des sciences participatives et citoyennes.
 
-Voir [[2022026|Open archives (Archive ouverte)]] ; [[2022204|HAL]] ; [[2022323|Open data (donnée ouverte)]] ; [[2022322|Open access (Accès ouvert)]], [[2022145|Epi-revue]] ; [[2022146|Episciences]], [[2022087|Couperin]]
+Voir Open archives ([[archive ouverte]]) ; [[HAL]] ; [[Open data|Open data (donnée ouverte)]] ; [[open access|Open access (Accès ouvert)]], [[Épi-revue]] ; [[Episciences]], [[Couperin]]
 
 Site web : <https://www.ouvrirlascience.fr/open-science/>
 

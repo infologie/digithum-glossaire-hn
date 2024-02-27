@@ -1,11 +1,11 @@
 ---
-title: 4CAT - Capture and Analysis Toolkit
-id: 2022001
+title: "4CAT - Capture and Analysis Toolkit"
+filename: 4cat
+type: Outils logiciels
 tags:
 - Exploration de corpus
 - Visualisation
 - Analyse du web
-type: ressource
 ---
 
 4CAT est un outil permettant de créer et d’analyser des fichiers de données à partir d’une variété de forums et de plateformes web.

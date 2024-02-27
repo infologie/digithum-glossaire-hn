@@ -1,10 +1,10 @@
 ---
-title: Classification
-id: 2022063
+title: "Classification"
+filename: classification
+type: Pratiques et méthodes
 tags:
 - Stockage / Archivage
 - Structuration
-type: notion
 ---
 
 Une classification est un système de répartition en classes, en catégories, d’êtres, d’objets, de notions ayant un ou plusieurs caractères communs dans le but, notamment, d’en faciliter l’étude.

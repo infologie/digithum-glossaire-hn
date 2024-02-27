@@ -1,13 +1,13 @@
 ---
-title: Argos
-id: 2022027
+title: "Argos"
+filename: argos
+type: Outils logiciels
 tags:
 - Gestion de contenu
 - Publication web
-type: ressource
 ---
 
-Argos est un outil en ligne développé par [[2022326|OpenAIRE]] qui permet de créer et de publier des [[2022351|plans de gestion des données]] (ou DPM).
+Argos est un outil en ligne développé par [[OpenAIRE]] qui permet de créer et de publier des [[plan de gestion des données|plans de gestion des données]] (ou PGD).
 
 Site web : <https://argos.openaire.eu/splash/>
 

@@ -1,10 +1,10 @@
 ---
-title: Google Autocomplete
-id: 2022194
+title: "Google Autocomplete"
+filename: google_autocomplete
+type: Outils logiciels
 tags:
 - Acquisition de données
 - Analyse du web
-type: ressource
 ---
 
 Cet outil permet de récupérer les suggestions d’autocomplétion de Google. 

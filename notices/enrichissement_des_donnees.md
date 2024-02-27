@@ -1,14 +1,14 @@
 ---
-title: Enrichissement des données
-id: 2022141
+title: "Enrichissement des données"
+filename: enrichissement_des_donnees
+type: Pratiques et méthodes
 tags:
 - Annotation
 - Gestion de contenu
 - Corpus / données de la recherche
-type: notion
 ---
 
-Ajout d’informations complémentaires pour aider la lecture, comme la normalisation des noms propres, les [[2022014|annotations]], etc. Différents types d’enrichissements :
+Ajout d’informations complémentaires pour aider la lecture, comme la normalisation des noms propres, les [[annotation|annotations]], etc. Différents types d’enrichissements :
 
 Enrichissement par complétion : ajout de formes normalisées de noms propres et ajout de références bibliographiques (identifiants de notices d’autorités de catalogues en ligne).
 

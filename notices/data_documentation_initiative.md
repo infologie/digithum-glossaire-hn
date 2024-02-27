@@ -1,10 +1,10 @@
 ---
-title: Data Documentation Initiative
-id: 2022097
+title: "Data Documentation Initiative"
+filename: data_documentation_initiative
+type: Groupements institutionnels
 tags:
-- Corpus / données de la recherche
 - Référentiel / Standard
-type: ressource
+- Corpus / données de la recherche
 ---
 
 La Data Documentation Initiative (DDI) est une norme internationale permettant de décrire les données produites par les enquêtes et autres méthodes d'observation dans le domaine des sciences sociales, comportementales, économiques et de la santé. La DDI est une norme gratuite qui permet de documenter et de gérer les différentes étapes du cycle de vie des données de recherche, telles que la conceptualisation, la collecte, le traitement, la distribution, la découverte et l'archivage. 

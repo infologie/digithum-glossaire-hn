@@ -1,9 +1,9 @@
 ---
-title: PROGEDO
-id: 2022361
+title: "PROGEDO"
+filename: progedo
+type: Groupements institutionnels
 tags:
 - Corpus / données de la recherche
-type: ressource
 ---
 
 L’infrastructure de recherche PROGEDO a pour but de développer la culture des données, d’impulser et structurer une politique des données d’enquêtes pour la recherche en sciences sociales. 

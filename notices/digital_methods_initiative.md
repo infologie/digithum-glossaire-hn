@@ -1,11 +1,13 @@
 ---
-title: Digital Methods Initiative
-id: 2022107
+title: "Digital Methods Initiative"
+filename: digital_methods_initiative
+types:
+- Groupements institutionnels
+- Outils logiciels
 tags:
 - Analyse du web
 - Réservoir / Entrepôt de ressources
 - Environnement collaboratif
-type: ressource
 ---
 
 La Digital Methods Initiative est un groupement européen de chercheurs et de doctorants dont les recherches portent sur l’étude de l’Internet. 

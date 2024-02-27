@@ -1,10 +1,10 @@
 ---
-title: QUANTI
-id: 2022368
+title: "QUANTI"
+filename: quanti
+type: Groupements institutionnels
 tags:
-- Environnement collaboratif
 - Veille documentaire
-type: ressource
+- Environnement collaboratif
 ---
 
 La liste de discussion "Quanti", créée après la journée d'études "Enseigner le quanti" qui a eu lieu à Paris le 5 juin 2015, a pour vocation d'accueillir les contributions et les échanges de toutes celles et tous ceux qui s'intéressent aux questions d'enseignement des méthodes quantitatives dans les sciences sociales. 

@@ -1,14 +1,14 @@
 ---
-title: WaveSurfer
-id: 2022488
+title: "WaveSurfer"
+filename: wavesurfer
+type: Outils logiciels
 tags:
 - Annotation
 - Son
 - Exploration de corpus
-type: ressource
 ---
 
-WaveSurfer est un [[2022278|logiciel]] multiplateforme d’analyse et d’annotation de données audios.
+WaveSurfer est un [[logiciel]] multiplateforme d’analyse et d’annotation de données audios.
 
 Site web : <https://www.speech.kth.se/wavesurfer/>
 

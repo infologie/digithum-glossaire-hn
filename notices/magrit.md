@@ -1,10 +1,10 @@
 ---
-title: Magrit
-id: 2022282
+title: "Magrit"
+filename: magrit
+type: Outils logiciels
 tags:
 - Cartographie
 - Données géographiques
-type: ressource
 ---
 
 Il s'agit d'une solution pour créer des cartes thématiques.

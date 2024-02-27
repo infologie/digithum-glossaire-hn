@@ -1,10 +1,10 @@
 ---
-title: DARIAH (ERIC)
-id: 2022094
+title: "DARIAH"
+filename: dariah_eric
+type: Groupements institutionnels
 tags:
 - Formation
 - Archive ouverte
-type: ressource
 ---
 
 DARIAH (Digital Research Infrastructure for the Arts and Humanities) est une infrastructure paneuropéenne pour les chercheurs en arts et en sciences humaines qui travaillent avec des méthodes de calcul.
